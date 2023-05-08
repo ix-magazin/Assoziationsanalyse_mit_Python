@@ -1,5 +1,5 @@
 # Assoziationsanalyse_mit_Python
-Jupyter-Notebook zum [Sonderheft-Artikel](Link) von Dr. Roland Pleger, erschienen auf [Heise+](heise.de) und im [iX Special 2023](Link)
+Jupyter-Notebook zum [Sonderheft-Artikel](Link) von Dr. Roland Pleger, erschienen auf [Heise+](heise.de) und im [iX Special 2023](Link).
 
 # iX-tract
 - Als unüberwachte Lernmethode tritt die Assoziationsanalyse zu Unrecht hinter Klassiker wie k-Means oder PCA in den Hintergrund.
